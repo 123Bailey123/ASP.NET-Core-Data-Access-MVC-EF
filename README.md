@@ -1,2 +1,3 @@
 # ASP.NET-Core-Data-Access-MVC-EF
-https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-2.1
+ASP.NET Core Data Access MVC w/ EF Tutorial
+https://docs.microsoft.com/en-gb/aspnet/core/data/ef-mvc/intro?view=aspnetcore-2.1
